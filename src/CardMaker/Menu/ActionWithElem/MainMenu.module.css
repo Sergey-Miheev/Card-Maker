@@ -1,0 +1,6 @@
+.menu__main {
+    column-gap: 0.8em;
+    margin-bottom: 0em;
+    display: grid;
+    grid-template-columns: 19em 0.1em 8em 0.1em 16em 0.1em 21em 0.1em 8em 0.1em 6em;
+}

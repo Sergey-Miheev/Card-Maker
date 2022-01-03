@@ -1,0 +1,5 @@
+.font {
+    display: grid;
+    grid-template-columns: 5em 8em 3em;
+    column-gap: 1em;
+}

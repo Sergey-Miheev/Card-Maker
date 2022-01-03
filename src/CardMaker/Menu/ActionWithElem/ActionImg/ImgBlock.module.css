@@ -1,0 +1,4 @@
+.menu__img {
+    display: grid;
+    row-gap: 1em;
+}

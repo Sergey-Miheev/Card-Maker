@@ -1,0 +1,6 @@
+.main__text {
+    display: grid;
+    row-gap: 1em;
+    margin-left: 1em;
+    justify-content: center;
+}

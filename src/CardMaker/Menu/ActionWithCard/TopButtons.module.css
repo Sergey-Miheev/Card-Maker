@@ -1,0 +1,8 @@
+.menu__top {
+    padding-top: 1em;
+    display: grid;
+    grid-template-columns: 8em 3em 3em 8em;
+    column-gap: 0.3em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}

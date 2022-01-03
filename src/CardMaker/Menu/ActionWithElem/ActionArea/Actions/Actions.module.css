@@ -1,0 +1,5 @@
+.actions {
+    display: grid;
+    grid-template-columns: 6.4em 6.4em 6.4em;
+    column-gap: 1em;
+}
